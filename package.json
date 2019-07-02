@@ -6,8 +6,10 @@
   "keywords": [],
   "author": "Philip Renich",
   "license": "MIT",
+  "scripts": {
+    "start": "node blunble"
+  },
   "dependencies": {
-    "dotenv": "^8.0.0",
     "twitter": "^1.7.1"
   }
 }
