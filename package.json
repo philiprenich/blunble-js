@@ -1,0 +1,13 @@
+{
+  "name": "blunble",
+  "version": "1.0.0",
+  "description": "A polite way of getting rid of trolls without permanently blocking because blocking usually results in more anger and more trolling.",
+  "main": "blunble.js",
+  "keywords": [],
+  "author": "Philip Renich",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "twitter": "^1.7.1"
+  }
+}
